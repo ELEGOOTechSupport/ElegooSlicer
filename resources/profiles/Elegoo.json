@@ -1343,6 +1343,10 @@
     {
         "name": "Elegoo PLA Matte @EOS Giga",
         "sub_path": "filament/EOSGIGA/Elegoo PLA Matte @EOS Giga.json"
+    },
+    {
+        "name": "Elegoo TPU 95A @EOS Giga",
+        "sub_path": "filament/EOSGIGA/Elegoo TPU 95A @EOS Giga.json"
     }
 
 

@@ -1,0 +1,17 @@
+{
+    "type": "filament",
+    "name": "Elegoo TPU 95A @EOS Giga",
+    "inherits": "Elegoo TPU 95A @base",
+    "from": "system",
+    "setting_id": "ETPU95AEOSG00",
+    "instantiation": "true",
+    "filament_max_volumetric_speed": [
+      "3.2"
+    ],
+    "compatible_printers": [
+        "Elegoo OrangeStorm Giga 0.4 nozzle",
+        "Elegoo OrangeStorm Giga 0.6 nozzle",
+        "Elegoo OrangeStorm Giga 0.8 nozzle",
+        "Elegoo OrangeStorm Giga 1.0 nozzle"
+    ]
+}
